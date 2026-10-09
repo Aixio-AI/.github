@@ -10,7 +10,7 @@ editable layers you can keep working on.
 
 | Repository | What it is |
 |---|---|
-| [**aixio-layer-v2**](https://github.com/Aixio-AI/aixio-layer-v2) | Image-to-layers results: a 150-design benchmark against Canva's MagicLayer, Qwen-Image-Layer and GPT-6 Astra Ultra, with sample comparisons |
+| [**aixio-layer-v2**](https://github.com/Aixio-AI/aixio-layer-v2) | Image-to-layers results: a 150-design benchmark against Canva Magic Layers, Qwen-Image-Layer and GPT-6 Astra Ultra, with sample comparisons |
 | [**aixio-plugin**](https://github.com/Aixio-AI/aixio-plugin) | Aixio image-to-layer plugin for Codex and Claude, with complementary media models |
 
 ### Links
